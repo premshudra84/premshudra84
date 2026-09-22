@@ -1,6 +1,6 @@
 # Hi 👋, I'm Prem Shudra
 
-### 🎓 BCA Student | 📊 Aspiring Data Analyst
+### 🎓 BCA (Hons.)Student | 📊 Aspiring Data Analyst
 
 I am a BCA student interested in Data Analytics and currently building practical projects using Python, SQL, Excel, and Power BI.
 
