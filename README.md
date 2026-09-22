@@ -30,8 +30,8 @@ I am currently learning Data Analytics and building projects to prepare for a Da
 
 ### 📫 Connect With Me
 
-- GitHub: [Your GitHub Profile](https://github.com/YourUsername)
-- LinkedIn: Add your LinkedIn profile here
+- GitHub: [Your GitHub Profile](https://github.com/premshudra84)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/prem-shudra-636a04351/)
 
 ---
 
